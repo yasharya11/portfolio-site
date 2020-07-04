@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using portfolio_site.Models;
+using System.Diagnostics;
 
 namespace portfolio_site.Controllers
 {
@@ -17,14 +13,14 @@ namespace portfolio_site.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "PLace holder data about yourself";
 
             return View();
         }
 
         public IActionResult Contact()
         {
-            ViewData["Message"] = "Your contact page.";
+            ViewData["Message"] = "Contact info, maybe cell and email... plus github";
 
             return View();
         }
