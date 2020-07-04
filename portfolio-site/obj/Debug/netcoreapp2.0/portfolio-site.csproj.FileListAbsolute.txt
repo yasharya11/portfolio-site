@@ -9,3 +9,15 @@ C:\Users\Dell User\Desktop\Code\2020\portfolio-site\portfolio-site\obj\Debug\net
 C:\Users\Dell User\Desktop\Code\2020\portfolio-site\portfolio-site\obj\Debug\netcoreapp2.0\portfolio-site.AssemblyInfo.cs
 C:\Users\Dell User\Desktop\Code\2020\portfolio-site\portfolio-site\obj\Debug\netcoreapp2.0\portfolio-site.dll
 C:\Users\Dell User\Desktop\Code\2020\portfolio-site\portfolio-site\obj\Debug\netcoreapp2.0\portfolio-site.pdb
+C:\Users\yasha\Desktop\Code\2020\portfolio-site\portfolio-site\bin\Debug\netcoreapp2.0\portfolio-site.deps.json
+C:\Users\yasha\Desktop\Code\2020\portfolio-site\portfolio-site\bin\Debug\netcoreapp2.0\portfolio-site.runtimeconfig.json
+C:\Users\yasha\Desktop\Code\2020\portfolio-site\portfolio-site\bin\Debug\netcoreapp2.0\portfolio-site.runtimeconfig.dev.json
+C:\Users\yasha\Desktop\Code\2020\portfolio-site\portfolio-site\bin\Debug\netcoreapp2.0\portfolio-site.dll
+C:\Users\yasha\Desktop\Code\2020\portfolio-site\portfolio-site\bin\Debug\netcoreapp2.0\portfolio-site.pdb
+C:\Users\yasha\Desktop\Code\2020\portfolio-site\portfolio-site\obj\Debug\netcoreapp2.0\portfolio-site.csprojAssemblyReference.cache
+C:\Users\yasha\Desktop\Code\2020\portfolio-site\portfolio-site\obj\Debug\netcoreapp2.0\portfolio-site.csproj.CoreCompileInputs.cache
+C:\Users\yasha\Desktop\Code\2020\portfolio-site\portfolio-site\obj\Debug\netcoreapp2.0\portfolio-site.AssemblyInfoInputs.cache
+C:\Users\yasha\Desktop\Code\2020\portfolio-site\portfolio-site\obj\Debug\netcoreapp2.0\portfolio-site.AssemblyInfo.cs
+C:\Users\yasha\Desktop\Code\2020\portfolio-site\portfolio-site\obj\Debug\netcoreapp2.0\portfolio-site.dll
+C:\Users\yasha\Desktop\Code\2020\portfolio-site\portfolio-site\obj\Debug\netcoreapp2.0\portfolio-site.pdb
+C:\Users\yasha\Desktop\Code\2020\portfolio-site\portfolio-site\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
