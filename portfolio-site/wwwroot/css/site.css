@@ -1,4 +1,5 @@
-﻿body {
+﻿/*BEGIN DEFAULT CSS*/
+body {
     padding-top: 50px;
     padding-bottom: 20px;
 }
@@ -32,4 +33,9 @@
     .carousel-caption {
         display: none;
     }
+}
+/*END DEFAULT CSS*/
+
+#main {
+    background-color: #efefef;
 }

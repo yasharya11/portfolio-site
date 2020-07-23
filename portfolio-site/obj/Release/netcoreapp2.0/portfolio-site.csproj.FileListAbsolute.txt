@@ -10,3 +10,8 @@ C:\Users\yasha\Desktop\Code\2020\portfolio-site\portfolio-site\obj\Release\netco
 C:\Users\yasha\Desktop\Code\2020\portfolio-site\portfolio-site\obj\Release\netcoreapp2.0\portfolio-site.AssemblyInfo.cs
 C:\Users\yasha\Desktop\Code\2020\portfolio-site\portfolio-site\obj\Release\netcoreapp2.0\portfolio-site.dll
 C:\Users\yasha\Desktop\Code\2020\portfolio-site\portfolio-site\obj\Release\netcoreapp2.0\portfolio-site.pdb
+C:\Users\yasha\Desktop\Code\2020\portfolio-site\portfolio-site\bin\Release\netcoreapp2.0\appsettings.Development.json
+C:\Users\yasha\Desktop\Code\2020\portfolio-site\portfolio-site\bin\Release\netcoreapp2.0\appsettings.json
+C:\Users\yasha\Desktop\Code\2020\portfolio-site\portfolio-site\bin\Release\netcoreapp2.0\bundleconfig.json
+C:\Users\yasha\Desktop\Code\2020\portfolio-site\portfolio-site\bin\Release\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\yasha\Desktop\Code\2020\portfolio-site\portfolio-site\obj\Release\netcoreapp2.0\portfolio-site.genruntimeconfig.cache

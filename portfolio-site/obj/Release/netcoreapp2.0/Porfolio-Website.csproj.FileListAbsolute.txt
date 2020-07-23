@@ -1,0 +1,17 @@
+C:\Users\yasha\Desktop\Code\2020\portfolio-site\portfolio-site\bin\Release\netcoreapp2.0\appsettings.Development.json
+C:\Users\yasha\Desktop\Code\2020\portfolio-site\portfolio-site\bin\Release\netcoreapp2.0\appsettings.json
+C:\Users\yasha\Desktop\Code\2020\portfolio-site\portfolio-site\bin\Release\netcoreapp2.0\bundleconfig.json
+C:\Users\yasha\Desktop\Code\2020\portfolio-site\portfolio-site\bin\Release\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\yasha\Desktop\Code\2020\portfolio-site\portfolio-site\bin\Release\netcoreapp2.0\Porfolio-Website.deps.json
+C:\Users\yasha\Desktop\Code\2020\portfolio-site\portfolio-site\bin\Release\netcoreapp2.0\Porfolio-Website.runtimeconfig.json
+C:\Users\yasha\Desktop\Code\2020\portfolio-site\portfolio-site\bin\Release\netcoreapp2.0\Porfolio-Website.runtimeconfig.dev.json
+C:\Users\yasha\Desktop\Code\2020\portfolio-site\portfolio-site\bin\Release\netcoreapp2.0\Porfolio-Website.dll
+C:\Users\yasha\Desktop\Code\2020\portfolio-site\portfolio-site\bin\Release\netcoreapp2.0\Porfolio-Website.pdb
+C:\Users\yasha\Desktop\Code\2020\portfolio-site\portfolio-site\obj\Release\netcoreapp2.0\Porfolio-Website.csprojAssemblyReference.cache
+C:\Users\yasha\Desktop\Code\2020\portfolio-site\portfolio-site\obj\Release\netcoreapp2.0\Porfolio-Website.AssemblyInfoInputs.cache
+C:\Users\yasha\Desktop\Code\2020\portfolio-site\portfolio-site\obj\Release\netcoreapp2.0\Porfolio-Website.AssemblyInfo.cs
+C:\Users\yasha\Desktop\Code\2020\portfolio-site\portfolio-site\obj\Release\netcoreapp2.0\Porfolio-Website.csproj.CoreCompileInputs.cache
+C:\Users\yasha\Desktop\Code\2020\portfolio-site\portfolio-site\obj\Release\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\yasha\Desktop\Code\2020\portfolio-site\portfolio-site\obj\Release\netcoreapp2.0\Porfolio-Website.dll
+C:\Users\yasha\Desktop\Code\2020\portfolio-site\portfolio-site\obj\Release\netcoreapp2.0\Porfolio-Website.pdb
+C:\Users\yasha\Desktop\Code\2020\portfolio-site\portfolio-site\obj\Release\netcoreapp2.0\Porfolio-Website.genruntimeconfig.cache
