@@ -4746,6 +4746,29 @@
         "runtime": {
           "lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll": {}
         }
+      },
+      "Portfolio.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Portfolio.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Portfolio.Core.dll": {}
+        }
+      },
+      "Portfolio.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Portfolio.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Portfolio.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Portfolio.Data.dll": {}
+        }
       }
     }
   },
@@ -12780,12 +12803,23 @@
         "windowsazure.storage.8.1.4.nupkg.sha512",
         "windowsazure.storage.nuspec"
       ]
+    },
+    "Portfolio.Core/1.0.0": {
+      "type": "project",
+      "path": "../Portfolio.Core/Portfolio.Core.csproj",
+      "msbuildProject": "../Portfolio.Core/Portfolio.Core.csproj"
+    },
+    "Portfolio.Data/1.0.0": {
+      "type": "project",
+      "path": "../Portfolio.Data/Portfolio.Data.csproj",
+      "msbuildProject": "../Portfolio.Data/Portfolio.Data.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
       "Microsoft.AspNetCore.All >= 2.0.8",
-      "Microsoft.NETCore.App >= 2.0.0"
+      "Microsoft.NETCore.App >= 2.0.0",
+      "Portfolio.Data >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -12817,7 +12851,11 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\yasha\\Desktop\\Code\\2020\\portfolio-site\\Portfolio.Data\\Portfolio.Data.csproj": {
+              "projectPath": "C:\\Users\\yasha\\Desktop\\Code\\2020\\portfolio-site\\Portfolio.Data\\Portfolio.Data.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -1,0 +1,38 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+using Portfolio.Core;
+using System.Linq;
+
+namespace Portfolio.Data
+{
+    public interface IClickData
+    {
+        IEnumerable<Click> GetAll();
+    }
+
+    public class InMemoryClickData : IClickData
+    {
+        List<Click> clicks;
+
+        public InMemoryClickData()
+        {
+            clicks = new List<Click>()
+            {
+                new Click {Id = 1, Edited = EditedStatus.edited },
+                new Click {Id = 2, Edited = EditedStatus.untouched },
+                new Click {Id = 3, Edited = EditedStatus.edited },
+                new Click {Id = 4, Edited = EditedStatus.untouched },
+                new Click {Id = 5, Edited = EditedStatus.edited },
+                new Click {Id = 6, Edited = EditedStatus.untouched },
+                new Click {Id = 7, Edited = EditedStatus.edited }
+            };
+        }
+        public IEnumerable<Click> GetAll()
+        {
+            return from r in clicks
+                   orderby r.Id
+                   select r;
+        }
+    }
+}
