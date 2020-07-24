@@ -12829,9 +12829,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yasha\\Desktop\\Code\\2020\\portfolio-site\\portfolio-site\\Porfolio-Website.csproj",
-      "projectName": "Porfolio-Website",
-      "projectPath": "C:\\Users\\yasha\\Desktop\\Code\\2020\\portfolio-site\\portfolio-site\\Porfolio-Website.csproj",
+      "projectUniqueName": "C:\\Users\\yasha\\Desktop\\Code\\2020\\portfolio-site\\portfolio-site\\portfolio_site.csproj",
+      "projectName": "portfolio_site",
+      "projectPath": "C:\\Users\\yasha\\Desktop\\Code\\2020\\portfolio-site\\portfolio-site\\portfolio_site.csproj",
       "packagesPath": "C:\\Users\\yasha\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\yasha\\Desktop\\Code\\2020\\portfolio-site\\portfolio-site\\obj\\",
       "projectStyle": "PackageReference",

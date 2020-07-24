@@ -1,5 +1,10 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Portfolio.Core;
+using Portfolio.Data;
 using portfolio_site.Models;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
 using System.Diagnostics;
 
 namespace portfolio_site.Controllers
@@ -9,8 +14,9 @@ namespace portfolio_site.Controllers
         //START TESTING STUFF
         public IActionResult Clicker()
         {
-            ViewData["Message"] = "Made to test if the database connection works";
-            return View();
+            InMemoryClickData clickData = new InMemoryClickData();
+            HomeClickerViewModel model = new HomeClickerViewModel(clickData);
+            return View(model);
         }
         //END TESTING STUFF
 

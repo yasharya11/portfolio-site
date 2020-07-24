@@ -1,10 +1,21 @@
-﻿@{
-    ViewData["Title"] = "Clicker";
-}
-
+﻿@model HomeClickerViewModel
 
 <div id="main">
-    <h2>@ViewData["Title"]</h2>
-    <h3>@ViewData["Message"]</h3>
     <p>Use this area to provide additional information.</p>
+    <br />
+    <br />
+    <hr />
+    <br />
+    <br />
+    <div>
+        <table class="table">
+            @foreach(Portfolio.Core.Click click in Model.Clicks)
+            {
+                <tr>
+                    <td>@click.Id</td>
+                    <td>@click.Edited</td>
+                </tr>
+            }
+        </table>
+    </div>
 </div>

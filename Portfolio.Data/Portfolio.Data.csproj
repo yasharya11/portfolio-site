@@ -5,7 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\portfolio-site\Porfolio-Website.csproj" />
     <ProjectReference Include="..\Portfolio.Core\Portfolio.Core.csproj" />
   </ItemGroup>
 

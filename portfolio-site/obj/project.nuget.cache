@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q7mNWRwJEGgRE20If3ExZeMNk1Oo3qMAHePNFoVL6qnJubUI9KXry58qZhYqTrHgqoOMI/tYp2H7zW4k5y0nHw==",
+  "dgSpecHash": "ECYPjdAZ6JCK8lPakU5IORyOUgUfIy8/YgE3MS3ro8zT8X3wnoaCjVe/rke2bQTOKBGfWL4eVa5lPbEaoXy8zg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yasha\\Desktop\\Code\\2020\\portfolio-site\\portfolio-site\\Porfolio-Website.csproj",
+  "projectFilePath": "C:\\Users\\yasha\\Desktop\\Code\\2020\\portfolio-site\\portfolio-site\\portfolio_site.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\libuv\\1.10.0\\libuv.1.10.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.applicationinsights\\2.4.0\\microsoft.applicationinsights.2.4.0.nupkg.sha512",
