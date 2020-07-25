@@ -12,10 +12,10 @@ namespace portfolio_site.Controllers
     public class HomeController : Controller
     {
         //START TESTING STUFF
-        public IActionResult Clicker()
+        public IActionResult Clicker(string searchTerm)
         {
             InMemoryClickData clickData = new InMemoryClickData();
-            HomeClickerViewModel model = new HomeClickerViewModel(clickData);
+            HomeClickerViewModel model = new HomeClickerViewModel(clickData, searchTerm);
             return View(model);
         }
         //END TESTING STUFF

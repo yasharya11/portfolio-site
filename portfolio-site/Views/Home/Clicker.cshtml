@@ -2,6 +2,19 @@
 
 <div id="main">
     <p>Use this area to provide additional information.</p>
+
+    <form method="get">
+        <div class="form-group">
+            <div class="input-group">
+                <input type="search" class="form-control" value="" name="searchTerm"/>
+                <span class="input-group-btn">
+                    <button class="btn btn-default">
+                        <i class="glyphicon glyphicon-search"></i>
+                    </button>
+                </span>
+            </div>
+        </div>
+    </form>
     <br />
     <br />
     <hr />
@@ -9,7 +22,11 @@
     <br />
     <div>
         <table class="table">
-            @foreach(Portfolio.Core.Click click in Model.Clicks)
+            <tr>
+                <th>Click ID</th>
+                <th>Edit Status</th>
+            </tr>
+            @foreach (Portfolio.Core.Click click in Model.Clicks)
             {
                 <tr>
                     <td>@click.Id</td>

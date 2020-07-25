@@ -14,10 +14,10 @@ namespace portfolio_site.Models
 
         public IEnumerable<Click> Clicks{ get; set; }
 
-        public HomeClickerViewModel(IClickData clickData)
+        public HomeClickerViewModel(IClickData clickData, string searchTerm)
         {
             this.clickData = clickData;
-            Clicks = clickData.GetAll();
+            Clicks = clickData.GetClicksById(searchTerm);
         }
     }
 }
