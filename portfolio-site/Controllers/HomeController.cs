@@ -18,6 +18,14 @@ namespace portfolio_site.Controllers
             HomeClickerViewModel model = new HomeClickerViewModel(clickData, searchTerm);
             return View(model);
         }
+
+        [HttpPost]
+        public IActionResult EditClick(string searchTerm, Click editClick)
+        {
+            InMemoryClickData clickData = new InMemoryClickData();
+            HomeClickerViewModel model = new HomeClickerViewModel(clickData, searchTerm);
+            return View(model);
+        }
         //END TESTING STUFF
 
 

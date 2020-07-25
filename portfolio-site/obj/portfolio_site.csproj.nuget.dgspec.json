@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yasha\\Desktop\\Code\\2020\\portfolio-site\\portfolio-site\\portfolio_site.csproj": {}
+    "C:\\Users\\Dell User\\Desktop\\Code\\2020\\portfolio-site\\portfolio-site\\portfolio_site.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yasha\\Desktop\\Code\\2020\\portfolio-site\\portfolio-site\\portfolio_site.csproj": {
+    "C:\\Users\\Dell User\\Desktop\\Code\\2020\\portfolio-site\\portfolio-site\\portfolio_site.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yasha\\Desktop\\Code\\2020\\portfolio-site\\portfolio-site\\portfolio_site.csproj",
+        "projectUniqueName": "C:\\Users\\Dell User\\Desktop\\Code\\2020\\portfolio-site\\portfolio-site\\portfolio_site.csproj",
         "projectName": "portfolio_site",
-        "projectPath": "C:\\Users\\yasha\\Desktop\\Code\\2020\\portfolio-site\\portfolio-site\\portfolio_site.csproj",
-        "packagesPath": "C:\\Users\\yasha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yasha\\Desktop\\Code\\2020\\portfolio-site\\portfolio-site\\obj\\",
+        "projectPath": "C:\\Users\\Dell User\\Desktop\\Code\\2020\\portfolio-site\\portfolio-site\\portfolio_site.csproj",
+        "packagesPath": "C:\\Users\\Dell User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dell User\\Desktop\\Code\\2020\\portfolio-site\\portfolio-site\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\yasha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dell User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp2.0": {
             "projectReferences": {
-              "C:\\Users\\yasha\\Desktop\\Code\\2020\\portfolio-site\\Portfolio.Data\\Portfolio.Data.csproj": {
-                "projectPath": "C:\\Users\\yasha\\Desktop\\Code\\2020\\portfolio-site\\Portfolio.Data\\Portfolio.Data.csproj"
+              "C:\\Users\\Dell User\\Desktop\\Code\\2020\\portfolio-site\\Portfolio.Data\\Portfolio.Data.csproj": {
+                "projectPath": "C:\\Users\\Dell User\\Desktop\\Code\\2020\\portfolio-site\\Portfolio.Data\\Portfolio.Data.csproj"
               }
             }
           }
@@ -48,6 +48,10 @@
             "Microsoft.AspNetCore.All": {
               "target": "Package",
               "version": "[2.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.6, )"
             },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
@@ -70,20 +74,20 @@
         }
       }
     },
-    "C:\\Users\\yasha\\Desktop\\Code\\2020\\portfolio-site\\Portfolio.Core\\Portfolio.Core.csproj": {
+    "C:\\Users\\Dell User\\Desktop\\Code\\2020\\portfolio-site\\Portfolio.Core\\Portfolio.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yasha\\Desktop\\Code\\2020\\portfolio-site\\Portfolio.Core\\Portfolio.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Dell User\\Desktop\\Code\\2020\\portfolio-site\\Portfolio.Core\\Portfolio.Core.csproj",
         "projectName": "Portfolio.Core",
-        "projectPath": "C:\\Users\\yasha\\Desktop\\Code\\2020\\portfolio-site\\Portfolio.Core\\Portfolio.Core.csproj",
-        "packagesPath": "C:\\Users\\yasha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yasha\\Desktop\\Code\\2020\\portfolio-site\\Portfolio.Core\\obj\\",
+        "projectPath": "C:\\Users\\Dell User\\Desktop\\Code\\2020\\portfolio-site\\Portfolio.Core\\Portfolio.Core.csproj",
+        "packagesPath": "C:\\Users\\Dell User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dell User\\Desktop\\Code\\2020\\portfolio-site\\Portfolio.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\yasha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dell User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -128,20 +132,20 @@
         }
       }
     },
-    "C:\\Users\\yasha\\Desktop\\Code\\2020\\portfolio-site\\Portfolio.Data\\Portfolio.Data.csproj": {
+    "C:\\Users\\Dell User\\Desktop\\Code\\2020\\portfolio-site\\Portfolio.Data\\Portfolio.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yasha\\Desktop\\Code\\2020\\portfolio-site\\Portfolio.Data\\Portfolio.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Dell User\\Desktop\\Code\\2020\\portfolio-site\\Portfolio.Data\\Portfolio.Data.csproj",
         "projectName": "Portfolio.Data",
-        "projectPath": "C:\\Users\\yasha\\Desktop\\Code\\2020\\portfolio-site\\Portfolio.Data\\Portfolio.Data.csproj",
-        "packagesPath": "C:\\Users\\yasha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yasha\\Desktop\\Code\\2020\\portfolio-site\\Portfolio.Data\\obj\\",
+        "projectPath": "C:\\Users\\Dell User\\Desktop\\Code\\2020\\portfolio-site\\Portfolio.Data\\Portfolio.Data.csproj",
+        "packagesPath": "C:\\Users\\Dell User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dell User\\Desktop\\Code\\2020\\portfolio-site\\Portfolio.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\yasha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dell User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -154,8 +158,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\yasha\\Desktop\\Code\\2020\\portfolio-site\\Portfolio.Core\\Portfolio.Core.csproj": {
-                "projectPath": "C:\\Users\\yasha\\Desktop\\Code\\2020\\portfolio-site\\Portfolio.Core\\Portfolio.Core.csproj"
+              "C:\\Users\\Dell User\\Desktop\\Code\\2020\\portfolio-site\\Portfolio.Core\\Portfolio.Core.csproj": {
+                "projectPath": "C:\\Users\\Dell User\\Desktop\\Code\\2020\\portfolio-site\\Portfolio.Core\\Portfolio.Core.csproj"
               }
             }
           }

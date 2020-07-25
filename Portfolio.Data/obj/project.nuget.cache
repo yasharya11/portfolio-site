@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "yLwxMmdUImCsSJdkXDBF0bTEQa2wgMOFCFZHcR+zgkTXnwWJgKdm40ZRZoSX5WE84ZZPXa24zBg/P6rdlO/jAA==",
+  "dgSpecHash": "RFIIAPkHHldWtKLwxomYOXwcoVbVxR3/Je3R8bcud0IjPZ3mrWGit6qEgR5ZuOgjgc5oBgxgrUrLrSNuyCAbCQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yasha\\Desktop\\Code\\2020\\portfolio-site\\Portfolio.Data\\Portfolio.Data.csproj",
+  "projectFilePath": "C:\\Users\\Dell User\\Desktop\\Code\\2020\\portfolio-site\\Portfolio.Data\\Portfolio.Data.csproj",
   "expectedPackageFiles": [
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Dell User\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Dell User\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

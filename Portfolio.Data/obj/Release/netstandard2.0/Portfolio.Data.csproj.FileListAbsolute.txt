@@ -10,3 +10,15 @@ C:\Users\yasha\Desktop\Code\2020\portfolio-site\Portfolio.Data\obj\Release\netst
 C:\Users\yasha\Desktop\Code\2020\portfolio-site\Portfolio.Data\obj\Release\netstandard2.0\Portfolio.Data.csproj.CopyComplete
 C:\Users\yasha\Desktop\Code\2020\portfolio-site\Portfolio.Data\obj\Release\netstandard2.0\Portfolio.Data.dll
 C:\Users\yasha\Desktop\Code\2020\portfolio-site\Portfolio.Data\obj\Release\netstandard2.0\Portfolio.Data.pdb
+C:\Users\Dell User\Desktop\Code\2020\portfolio-site\Portfolio.Data\bin\Release\netstandard2.0\Portfolio.Data.deps.json
+C:\Users\Dell User\Desktop\Code\2020\portfolio-site\Portfolio.Data\bin\Release\netstandard2.0\Portfolio.Data.dll
+C:\Users\Dell User\Desktop\Code\2020\portfolio-site\Portfolio.Data\bin\Release\netstandard2.0\Portfolio.Data.pdb
+C:\Users\Dell User\Desktop\Code\2020\portfolio-site\Portfolio.Data\bin\Release\netstandard2.0\Portfolio.Core.dll
+C:\Users\Dell User\Desktop\Code\2020\portfolio-site\Portfolio.Data\bin\Release\netstandard2.0\Portfolio.Core.pdb
+C:\Users\Dell User\Desktop\Code\2020\portfolio-site\Portfolio.Data\obj\Release\netstandard2.0\Portfolio.Data.csprojAssemblyReference.cache
+C:\Users\Dell User\Desktop\Code\2020\portfolio-site\Portfolio.Data\obj\Release\netstandard2.0\Portfolio.Data.AssemblyInfoInputs.cache
+C:\Users\Dell User\Desktop\Code\2020\portfolio-site\Portfolio.Data\obj\Release\netstandard2.0\Portfolio.Data.AssemblyInfo.cs
+C:\Users\Dell User\Desktop\Code\2020\portfolio-site\Portfolio.Data\obj\Release\netstandard2.0\Portfolio.Data.csproj.CoreCompileInputs.cache
+C:\Users\Dell User\Desktop\Code\2020\portfolio-site\Portfolio.Data\obj\Release\netstandard2.0\Portfolio.Data.csproj.CopyComplete
+C:\Users\Dell User\Desktop\Code\2020\portfolio-site\Portfolio.Data\obj\Release\netstandard2.0\Portfolio.Data.dll
+C:\Users\Dell User\Desktop\Code\2020\portfolio-site\Portfolio.Data\obj\Release\netstandard2.0\Portfolio.Data.pdb

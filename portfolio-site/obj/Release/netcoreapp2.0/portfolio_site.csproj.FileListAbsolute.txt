@@ -20,3 +20,23 @@ C:\Users\yasha\Desktop\Code\2020\portfolio-site\portfolio-site\obj\Release\netco
 C:\Users\yasha\Desktop\Code\2020\portfolio-site\portfolio-site\obj\Release\netcoreapp2.0\portfolio_site.dll
 C:\Users\yasha\Desktop\Code\2020\portfolio-site\portfolio-site\obj\Release\netcoreapp2.0\portfolio_site.pdb
 C:\Users\yasha\Desktop\Code\2020\portfolio-site\portfolio-site\obj\Release\netcoreapp2.0\portfolio_site.genruntimeconfig.cache
+C:\Users\Dell User\Desktop\Code\2020\portfolio-site\portfolio-site\bin\Release\netcoreapp2.0\appsettings.Development.json
+C:\Users\Dell User\Desktop\Code\2020\portfolio-site\portfolio-site\bin\Release\netcoreapp2.0\appsettings.json
+C:\Users\Dell User\Desktop\Code\2020\portfolio-site\portfolio-site\bin\Release\netcoreapp2.0\bundleconfig.json
+C:\Users\Dell User\Desktop\Code\2020\portfolio-site\portfolio-site\bin\Release\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\Dell User\Desktop\Code\2020\portfolio-site\portfolio-site\bin\Release\netcoreapp2.0\portfolio_site.deps.json
+C:\Users\Dell User\Desktop\Code\2020\portfolio-site\portfolio-site\bin\Release\netcoreapp2.0\portfolio_site.runtimeconfig.json
+C:\Users\Dell User\Desktop\Code\2020\portfolio-site\portfolio-site\bin\Release\netcoreapp2.0\portfolio_site.runtimeconfig.dev.json
+C:\Users\Dell User\Desktop\Code\2020\portfolio-site\portfolio-site\bin\Release\netcoreapp2.0\portfolio_site.dll
+C:\Users\Dell User\Desktop\Code\2020\portfolio-site\portfolio-site\bin\Release\netcoreapp2.0\portfolio_site.pdb
+C:\Users\Dell User\Desktop\Code\2020\portfolio-site\portfolio-site\bin\Release\netcoreapp2.0\Portfolio.Core.dll
+C:\Users\Dell User\Desktop\Code\2020\portfolio-site\portfolio-site\bin\Release\netcoreapp2.0\Portfolio.Data.dll
+C:\Users\Dell User\Desktop\Code\2020\portfolio-site\portfolio-site\bin\Release\netcoreapp2.0\Portfolio.Data.pdb
+C:\Users\Dell User\Desktop\Code\2020\portfolio-site\portfolio-site\bin\Release\netcoreapp2.0\Portfolio.Core.pdb
+C:\Users\Dell User\Desktop\Code\2020\portfolio-site\portfolio-site\obj\Release\netcoreapp2.0\portfolio_site.csprojAssemblyReference.cache
+C:\Users\Dell User\Desktop\Code\2020\portfolio-site\portfolio-site\obj\Release\netcoreapp2.0\portfolio_site.AssemblyInfoInputs.cache
+C:\Users\Dell User\Desktop\Code\2020\portfolio-site\portfolio-site\obj\Release\netcoreapp2.0\portfolio_site.AssemblyInfo.cs
+C:\Users\Dell User\Desktop\Code\2020\portfolio-site\portfolio-site\obj\Release\netcoreapp2.0\portfolio_site.csproj.CopyComplete
+C:\Users\Dell User\Desktop\Code\2020\portfolio-site\portfolio-site\obj\Release\netcoreapp2.0\portfolio_site.dll
+C:\Users\Dell User\Desktop\Code\2020\portfolio-site\portfolio-site\obj\Release\netcoreapp2.0\portfolio_site.pdb
+C:\Users\Dell User\Desktop\Code\2020\portfolio-site\portfolio-site\obj\Release\netcoreapp2.0\portfolio_site.genruntimeconfig.cache
